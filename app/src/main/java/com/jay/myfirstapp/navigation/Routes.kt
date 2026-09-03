@@ -1,0 +1,15 @@
+package com.jay.myfirstapp.navigation
+
+const val ROUTE_SPLASH = "splash"
+const val ROUTE_HOME = "home"
+const val ROUTE_LOGIN = "login"
+const val ROUTE_REGISTER = "register"
+const val ROUTE_CALCULATOR = "calculator"
+const val ROUTE_INTENT = "intent"
+const val ROUTE_PROFILE = "profile"
+const val ROUTE_MENU = "menu"
+const val ROUTE_CAMERA = "camera"
+const val ROUTE_MYSAFARICOM = "mysafaricom"
+const val ROUTE_ADD_PRODUCT = "add_product"
+const val ROUTE_VIEW_PRODUCTS = "view_products"
+const val ROUTE_UPDATE_PRODUCT = "update_product/{productId}"
